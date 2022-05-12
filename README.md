@@ -1,5 +1,5 @@
-# This is an ALX PRE-COURSE Project
+# This is an ALX Pre-Course Project
 
 ## There are presently two branches - main and update_script.
 
-### It is a project in progress and full description will be given later on.
+### This is a project in progress however, this file will be updated later on.
