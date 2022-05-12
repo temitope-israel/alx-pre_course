@@ -1,4 +1,4 @@
-# This is an ALX Pre-Course Project
+# This is an ALX Pre-Course Project.
 
 ## There are presently two branches - main and update_script.
 
